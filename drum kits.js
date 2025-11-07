@@ -1,5 +1,5 @@
 
-const kits = ["crash","kick","snare", "tom"];
+const kits = ["crash","kick","snare", "tom"];// sounds
 const containerEl = document.querySelector(".container");
 
 kits.forEach(kit =>{
